@@ -25,5 +25,3 @@ This part checks if the code is running on Google Colab and downloads additional
 # 9.Import the Digital Signature into a PDF Document:
 •The final transparent signature can be imported into PDF documents for digital signing.
 Overall, this code provides a comprehensive demonstration of image processing techniques to create a transparent digital signature suitable for use in PDF documents.
-
-![image](https://github.com/shamiul5201/E_Signature_Application/assets/68953368/edf2391c-8a4f-49b3-ac9e-9692ec471690)
